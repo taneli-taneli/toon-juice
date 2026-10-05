@@ -1,3 +1,38 @@
+const cursor = document.querySelector(".cursor");
+const interactiveSelectors = "a, button, .filter, .logo, .cartoon-card, .slide-image-link";
+
+if (cursor && window.matchMedia("(pointer: fine)").matches) {
+    let mouseX = window.innerWidth / 2;
+    let mouseY = window.innerHeight / 2;
+    let cursorX = mouseX;
+    let cursorY = mouseY;
+
+    const updateCursor = () => {
+        cursorX += (mouseX - cursorX) * 0.18;
+        cursorY += (mouseY - cursorY) * 0.18;
+        cursor.style.left = `${cursorX}px`;
+        cursor.style.top = `${cursorY}px`;
+        requestAnimationFrame(updateCursor);
+    };
+
+    document.addEventListener("pointermove", event => {
+        mouseX = event.clientX;
+        mouseY = event.clientY;
+        cursor.classList.add("visible");
+    });
+
+    document.addEventListener("pointerdown", () => cursor.classList.add("is-active"));
+    document.addEventListener("pointerup", () => cursor.classList.remove("is-active"));
+    document.addEventListener("pointerleave", () => cursor.classList.remove("visible"));
+
+    document.querySelectorAll(interactiveSelectors).forEach(element => {
+        element.addEventListener("mouseenter", () => cursor.classList.add("is-active"));
+        element.addEventListener("mouseleave", () => cursor.classList.remove("is-active"));
+    });
+
+    requestAnimationFrame(updateCursor);
+}
+
 const cartoonsSection = document.querySelector("#cartoons");
 let shows = [];
 
