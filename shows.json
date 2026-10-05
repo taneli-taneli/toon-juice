@@ -1,0 +1,299 @@
+[
+  {
+    "#": 1,
+    "show": "Futurama",
+    "year": 1999,
+    "genre": "Sci-Fi/Comedy",
+    "Network": "Fox / Hulu",
+    "animation_style": "2D",
+    "path": "assets/futurama.jpeg"
+  },
+  {
+    "#": 2,
+    "show": "Bob's Burgers",
+    "year": 2011,
+    "genre": "Comedy",
+    "Network": "Fox",
+    "animation_style": "2D",
+    "path": "assets/bobs_burgers.jpeg"
+  },
+  {
+    "#": 3,
+    "show": "The Simpsons",
+    "year": 1989,
+    "genre": "Comedy",
+    "Network": "Fox",
+    "animation_style": "2D",
+    "path": "assets/the_simpsons.jpeg"
+  },
+  {
+    "#": 4,
+    "show": "Family Guy",
+    "year": 1999,
+    "genre": "Comedy",
+    "Network": "Fox",
+    "animation_style": "2D",
+    "path": "assets/family_guy.jpeg"
+  },
+  {
+    "#": 5,
+    "show": "American Dad!",
+    "year": 2005,
+    "genre": "Comedy",
+    "Network": "Fox / TBS",
+    "animation_style": "2D",
+    "path": "assets/american_dad.jpeg"
+  },
+  {
+    "#": 6,
+    "show": "South Park",
+    "year": 1997,
+    "genre": "Comedy / Satire",
+    "Network": "Comedy Central",
+    "animation_style": "Cutout-style 2D",
+    "path": "assets/south_park.jpeg"
+  },
+  {
+    "#": 7,
+    "show": "Rick and Morty",
+    "year": 2013,
+    "genre": "Sci-Fi / Comedy",
+    "Network": "Adult Swim",
+    "animation_style": "2D",
+    "path": "assets/rickmorty.jpeg"
+  },
+  {
+    "#": 8,
+    "show": "King of the Hill",
+    "year": 1997,
+    "genre": "Comedy",
+    "Network": "Fox",
+    "animation_style": "2D",
+    "path": "assets/king_ofthe_hill.jpeg"
+  },
+  {
+    "#": 9,
+    "show": "Beavis and Butt-Head",
+    "year": 1993,
+    "genre": "Comedy",
+    "Network": "MTV",
+    "animation_style": "2D",
+    "path": "assets/beavisbutthead.jpeg"
+  },
+  {
+    "#": 10,
+    "show": "Archer",
+    "year": 2009,
+    "genre": "Comedy / Spy",
+    "Network": "FX",
+    "animation_style": "2D",
+    "path": "assets/archer.jpeg"
+  },
+  {
+    "#": 11,
+    "show": "BoJack Horseman",
+    "year": 2014,
+    "genre": "Comedy / Drama",
+    "Network": "Netflix",
+    "animation_style": "2D",
+    "path": "assets/bojack_horseman.jpeg"
+  },
+  {
+    "#": 12,
+    "show": "Big Mouth",
+    "year": 2017,
+    "genre": "Comedy",
+    "Network": "Netflix",
+    "animation_style": "2D",
+    "path": "assets/big_mouth.jpeg"
+  },
+  {
+    "#": 13,
+    "show": "Disenchantment",
+    "year": 2018,
+    "genre": "Fantasy / Comedy",
+    "Network": "Netflix",
+    "animation_style": "2D",
+    "path": "assets/disenchantment.jpeg"
+  },
+  {
+    "#": 14,
+    "show": "Solar Opposites",
+    "year": 2020,
+    "genre": "Sci-Fi / Comedy",
+    "Network": "Hulu",
+    "animation_style": "2D",
+    "path": "assets/solar_opposites.jpeg"
+  },
+  {
+    "#": 15,
+    "show": "Gravity Falls",
+    "year": 2012,
+    "genre": "Mystery / Adventure",
+    "Network": "Disney",
+    "animation_style": "2D",
+    "path": "assets/gravity_falls.jpeg"
+  },
+  {
+    "#": 16,
+    "show": "Adventure Time",
+    "year": 2010,
+    "genre": "Fantasy / Adventure",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/adventure_time.jpeg"
+  },
+  {
+    "#": 17,
+    "show": "Regular Show",
+    "year": 2009,
+    "genre": "Comedy / Adventure",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/regular_show.jpeg"
+  },
+  {
+    "#": 18,
+    "show": "The Amazing World of Gumball",
+    "year": 2011,
+    "genre": "Comedy",
+    "Network": "Cartoon Network",
+    "animation_style": "Mixed media",
+    "path": "assets/amazing_world.jpeg"
+  },
+  {
+    "#": 19,
+    "show": "Over the Garden Wall",
+    "year": 2014,
+    "genre": "Fantasy / Mystery",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/over_the_garden_wall.jpeg"
+  },
+  {
+    "#": 20,
+    "show": "Teen Titans",
+    "year": 2003,
+    "genre": "Superhero",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/teen_titans.jpeg"
+  },
+  {
+    "#": 21,
+    "show": "Courage the Cowardly Dog",
+    "year": 1999,
+    "genre": "Horror / Comedy",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/courage_the_cowardly_dog.jpeg"
+  },
+  {
+    "#": 22,
+    "show": "Dexter's Laboratory",
+    "year": 1996,
+    "genre": "Comedy / Sci-Fi",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/dexters_lab.jpeg"
+  },
+  {
+    "#": 23,
+    "show": "Ed, Edd n Eddy",
+    "year": 1999,
+    "genre": "Comedy",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/ed_edd_eddy.jpeg"
+  },
+  {
+    "#": 24,
+    "show": "The Powerpuff Girls",
+    "year": 1998,
+    "genre": "Superhero / Comedy",
+    "Network": "Cartoon Network",
+    "animation_style": "2D",
+    "path": "assets/powerpuff_girls.jpeg"
+  },
+  {
+    "#": 25,
+    "show": "Hey Arnold!",
+    "year": 1996,
+    "genre": "Comedy",
+    "Network": "Nickelodeon",
+    "animation_style": "2D",
+    "path": "assets/hey_arnold.jpeg"
+  },
+  {
+    "#": 26,
+    "show": "SpongeBob SquarePants",
+    "year": 1999,
+    "genre": "Comedy",
+    "Network": "Nickelodeon",
+    "animation_style": "2D",
+    "path": "assets/spongebob_squarepants.jpeg"
+  },
+  {
+    "#": 27,
+    "show": "Avatar: The Last Airbender",
+    "year": 2005,
+    "genre": "Fantasy / Adventure",
+    "Network": "Nickelodeon",
+    "animation_style": "2D",
+    "path": "assets/avatar_the_last_airbender.jpeg"
+  },
+  {
+    "#": 28,
+    "show": "Danny Phantom",
+    "year": 2004,
+    "genre": "Superhero / Comedy",
+    "Network": "Nickelodeon",
+    "animation_style": "2D",
+    "path": "assets/danny_phantom.jpeg"
+  },
+  {
+    "#": 29,
+    "show": "Invader Zim",
+    "year": 2001,
+    "genre": "Sci-Fi / Comedy",
+    "Network": "Nickelodeon",
+    "animation_style": "2D",
+    "path": "assets/invader_zim.jpeg"
+  },
+  {
+    "#": 30,
+    "show": "Boondocks",
+    "year": 2005,
+    "genre": "Comedy / Satire",
+    "Network": "Adult Swim",
+    "animation_style": "2D",
+    "path": "assets/boondocks.jpeg"
+  },
+  {
+    "#": 31,
+    "show": "Clone High",
+    "year": 2002,
+    "genre": "Comedy",
+    "Network": "MTV",
+    "animation_style": "2D",
+    "path": "assets/clone_high.jpeg"
+  },
+  {
+    "#": 32,
+    "show": "Daria",
+    "year": 1997,
+    "genre": "Comedy",
+    "Network": "MTV",
+    "animation_style": "2D",
+    "path": "assets/daria.jpeg"
+  },
+  {
+    "#": 33,
+    "show": "Smiling Friends",
+    "year": 2022,
+    "genre": "Comedy",
+    "Network": "Adult Swim",
+    "animation_style": "2D / Mixed",
+    "path": "assets/smiling_friends.jpeg"
+  }
+]
