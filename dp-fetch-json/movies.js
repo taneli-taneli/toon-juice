@@ -149,7 +149,7 @@ const cartoons = [
     genres: ["Fantasy", "Mystery"],
     network: "Cartoon Network",
     animation_style: "2D",
-    path: "assets/over_the_garden_wall.jpeg"
+    path: "assets/over_the_gardenwall.jpeg"
   },
   {
     title: "Teen Titans",
@@ -173,7 +173,7 @@ const cartoons = [
     genres: ["Comedy", "Sci-Fi"],
     network: "Cartoon Network",
     animation_style: "2D",
-    path: "assets/dexters_laboratory.jpeg"
+    path: "assets/dexters_lab.jpeg"
   },
   {
     title: "Ed, Edd n Eddy",
