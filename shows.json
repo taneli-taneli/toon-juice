@@ -6,7 +6,7 @@
     "genre": "Sci-Fi/Comedy",
     "Network": "Fox / Hulu",
     "animation_style": "2D",
-    "path": "assets/futurama.jpeg"
+    "path": "futurama.jpeg"
   },
   {
     "#": 2,
@@ -15,7 +15,7 @@
     "genre": "Comedy",
     "Network": "Fox",
     "animation_style": "2D",
-    "path": "assets/bobs_burgers.jpeg"
+    "path": "bobs_burgers.jpeg"
   },
   {
     "#": 3,
@@ -24,7 +24,7 @@
     "genre": "Comedy",
     "Network": "Fox",
     "animation_style": "2D",
-    "path": "assets/the_simpsons.jpeg"
+    "path": "the_simpsons.jpeg"
   },
   {
     "#": 4,
@@ -33,7 +33,7 @@
     "genre": "Comedy",
     "Network": "Fox",
     "animation_style": "2D",
-    "path": "assets/family_guy.jpeg"
+    "path": "family_guy.jpeg"
   },
   {
     "#": 5,
@@ -42,7 +42,7 @@
     "genre": "Comedy",
     "Network": "Fox / TBS",
     "animation_style": "2D",
-    "path": "assets/american_dad.jpeg"
+    "path": "american_dad.jpeg"
   },
   {
     "#": 6,
@@ -51,7 +51,7 @@
     "genre": "Comedy / Satire",
     "Network": "Comedy Central",
     "animation_style": "Cutout-style 2D",
-    "path": "assets/south_park.jpeg"
+    "path": "south_park.jpeg"
   },
   {
     "#": 7,
@@ -60,7 +60,7 @@
     "genre": "Sci-Fi / Comedy",
     "Network": "Adult Swim",
     "animation_style": "2D",
-    "path": "assets/rickmorty.jpeg"
+    "path": "rickmorty.jpeg"
   },
   {
     "#": 8,
@@ -69,7 +69,7 @@
     "genre": "Comedy",
     "Network": "Fox",
     "animation_style": "2D",
-    "path": "assets/king_ofthe_hill.jpeg"
+    "path": "king_ofthe_hill.jpeg"
   },
   {
     "#": 9,
@@ -78,7 +78,7 @@
     "genre": "Comedy",
     "Network": "MTV",
     "animation_style": "2D",
-    "path": "assets/beavisbutthead.jpeg"
+    "path": "beavisbutthead.jpeg"
   },
   {
     "#": 10,
@@ -87,7 +87,7 @@
     "genre": "Comedy / Spy",
     "Network": "FX",
     "animation_style": "2D",
-    "path": "assets/archer.jpeg"
+    "path": "archer.jpeg"
   },
   {
     "#": 11,
@@ -96,7 +96,7 @@
     "genre": "Comedy / Drama",
     "Network": "Netflix",
     "animation_style": "2D",
-    "path": "assets/bojack_horseman.jpeg"
+    "path": "bojack_horseman.jpeg"
   },
   {
     "#": 12,
@@ -105,7 +105,7 @@
     "genre": "Comedy",
     "Network": "Netflix",
     "animation_style": "2D",
-    "path": "assets/big_mouth.jpeg"
+    "path": "big_mouth.jpeg"
   },
   {
     "#": 13,
@@ -114,7 +114,7 @@
     "genre": "Fantasy / Comedy",
     "Network": "Netflix",
     "animation_style": "2D",
-    "path": "assets/disenchantment.jpeg"
+    "path": "disenchantment.jpeg"
   },
   {
     "#": 14,
@@ -123,7 +123,7 @@
     "genre": "Sci-Fi / Comedy",
     "Network": "Hulu",
     "animation_style": "2D",
-    "path": "assets/solar_opposites.jpeg"
+    "path": "solar_opposites.jpeg"
   },
   {
     "#": 15,
@@ -132,7 +132,7 @@
     "genre": "Mystery / Adventure",
     "Network": "Disney",
     "animation_style": "2D",
-    "path": "assets/gravity_falls.jpeg"
+    "path": "gravity_falls.jpeg"
   },
   {
     "#": 16,
@@ -141,7 +141,7 @@
     "genre": "Fantasy / Adventure",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/adventure_time.jpeg"
+    "path": "adventure_time.jpeg"
   },
   {
     "#": 17,
@@ -150,7 +150,7 @@
     "genre": "Comedy / Adventure",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/regular_show.jpeg"
+    "path": "regular_show.jpeg"
   },
   {
     "#": 18,
@@ -159,7 +159,7 @@
     "genre": "Comedy",
     "Network": "Cartoon Network",
     "animation_style": "Mixed media",
-    "path": "assets/amazing_world.jpeg"
+    "path": "amazing_world.jpeg"
   },
   {
     "#": 19,
@@ -168,7 +168,7 @@
     "genre": "Fantasy / Mystery",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/over_the_garden_wall.jpeg"
+    "path": "over_the_garden_wall.jpeg"
   },
   {
     "#": 20,
@@ -177,7 +177,7 @@
     "genre": "Superhero",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/teen_titans.jpeg"
+    "path": "teen_titans.jpeg"
   },
   {
     "#": 21,
@@ -186,7 +186,7 @@
     "genre": "Horror / Comedy",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/courage_the_cowardly_dog.jpeg"
+    "path": "courage_the_cowardly_dog.jpeg"
   },
   {
     "#": 22,
@@ -195,7 +195,7 @@
     "genre": "Comedy / Sci-Fi",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/dexters_lab.jpeg"
+    "path": "dexters_lab.jpeg"
   },
   {
     "#": 23,
@@ -204,7 +204,7 @@
     "genre": "Comedy",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/ed_edd_eddy.jpeg"
+    "path": "ed_edd_eddy.jpeg"
   },
   {
     "#": 24,
@@ -213,7 +213,7 @@
     "genre": "Superhero / Comedy",
     "Network": "Cartoon Network",
     "animation_style": "2D",
-    "path": "assets/powerpuff_girls.jpeg"
+    "path": "powerpuff_girls.jpeg"
   },
   {
     "#": 25,
@@ -222,7 +222,7 @@
     "genre": "Comedy",
     "Network": "Nickelodeon",
     "animation_style": "2D",
-    "path": "assets/hey_arnold.jpeg"
+    "path": "hey_arnold.jpeg"
   },
   {
     "#": 26,
@@ -231,7 +231,7 @@
     "genre": "Comedy",
     "Network": "Nickelodeon",
     "animation_style": "2D",
-    "path": "assets/spongebob_squarepants.jpeg"
+    "path": "spongebob_squarepants.jpeg"
   },
   {
     "#": 27,
@@ -240,7 +240,7 @@
     "genre": "Fantasy / Adventure",
     "Network": "Nickelodeon",
     "animation_style": "2D",
-    "path": "assets/avatar_the_last_airbender.jpeg"
+    "path": "avatar_the_last_airbender.jpeg"
   },
   {
     "#": 28,
@@ -249,7 +249,7 @@
     "genre": "Superhero / Comedy",
     "Network": "Nickelodeon",
     "animation_style": "2D",
-    "path": "assets/danny_phantom.jpeg"
+    "path": "danny_phantom.jpeg"
   },
   {
     "#": 29,
@@ -258,7 +258,7 @@
     "genre": "Sci-Fi / Comedy",
     "Network": "Nickelodeon",
     "animation_style": "2D",
-    "path": "assets/invader_zim.jpeg"
+    "path": "invader_zim.jpeg"
   },
   {
     "#": 30,
@@ -267,7 +267,7 @@
     "genre": "Comedy / Satire",
     "Network": "Adult Swim",
     "animation_style": "2D",
-    "path": "assets/boondocks.jpeg"
+    "path": "boondocks.jpeg"
   },
   {
     "#": 31,
@@ -276,7 +276,7 @@
     "genre": "Comedy",
     "Network": "MTV",
     "animation_style": "2D",
-    "path": "assets/clone_high.jpeg"
+    "path": "clone_high.jpeg"
   },
   {
     "#": 32,
@@ -285,7 +285,7 @@
     "genre": "Comedy",
     "Network": "MTV",
     "animation_style": "2D",
-    "path": "assets/daria.jpeg"
+    "path": "daria.jpeg"
   },
   {
     "#": 33,
@@ -294,6 +294,6 @@
     "genre": "Comedy",
     "Network": "Adult Swim",
     "animation_style": "2D / Mixed",
-    "path": "assets/smiling_friends.jpeg"
+    "path": "smiling_friends.jpeg"
   }
 ]
